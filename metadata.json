@@ -1,0 +1,6 @@
+{
+  "name": "ClipVerse",
+  "description": "Turn your long YouTube videos into viral Shorts, Reels, and TikTok clips in seconds using Gemini AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
